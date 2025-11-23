@@ -48,13 +48,11 @@ Open an Issue: Feel free to open an issue in this repository with your question 
 
 TryHackMe Discord: The official THM Discord is the best place for real-time help.
 
-Discussions: Check the "Discussions" tab on this repository (if enabled).
-
 👤 Maintainers and Contributors
 
 This project is currently maintained by:
 
-[Your Name/Handle] - Initial work and documentation - [Link to your Profile]
+Tanmay Itape - Initial work and documentation - www.linkedin.com/in/tanmay-itape-6ba67320a
 
 Contributing
 
